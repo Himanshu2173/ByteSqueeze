@@ -1,7 +1,8 @@
 # Text File Compression with Huffman Encoding
 
 This project implements a text file compression and decompression system using the Huffman Algorithm. The system is designed to achieve lossless data compression for text (.txt) files.
-
+# Live Demo:
+https://byte-squeeze.vercel.app/
 ## Overview
 
 The Huffman Algorithm assigns variable-length codes to different characters based on their frequency of occurrence in the input text. This results in shorter codes for more frequently used characters and longer codes for less frequent ones, optimizing the compression ratio.
